@@ -52,13 +52,13 @@ Welcome to my GitHub profile! I am a hybrid professional combining modern **Fron
 ### 📊 GitHub Stats & Activity
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=maddhdyt&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=maddhdyt&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 
-  <br/><br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddhdyt&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/maddhdyt)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=maddhdyt&theme=tokyonight&hide_border=true)](https://github.com/maddhdyt)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddhdyt&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<br/>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maddhdyt&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/maddhdyt)
 
 </div>
 
