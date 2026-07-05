@@ -53,7 +53,7 @@ Welcome to my GitHub profile! I am a hybrid professional combining modern **Fron
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=maddhdyt&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="195" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maddhdyt&show_icons=true&theme=tokyonight&hide_border=true" height="195" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=maddhdyt&theme=tokyonight&hide_border=true" height="195" alt="GitHub Streak" />
 
   <br/><br/>
